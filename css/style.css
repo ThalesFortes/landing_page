@@ -111,4 +111,10 @@ header{
         border-radius: 10px;
         font-size: 30px;
         font-weight: 700;
+        cursor: pointer;
+    }
+
+    #form button:hover{
+        transform: translateY(-7px);
+        transition-duration: 0.5s;
     }
