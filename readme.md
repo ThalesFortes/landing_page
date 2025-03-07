@@ -5,7 +5,7 @@ Para rodar o programa basta baixar o código e clicar no index.
 ## Armazenamento e deploy
 
 - Armazenamento de dados foi  feito pelo sheet monkey onde guarda nome e email no excel para futuro.
-- Deploy foi feito pelo site Netlify [title](https://)
+- Deploy foi feito pelo site Netlify [site](https://arquiteture.netlify.app/)
 
 ### Funcionamento
 
