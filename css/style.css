@@ -4,3 +4,111 @@
     box-sizing: border-box;
     font-family:'Inter', 'sans-serif';
 }
+
+header{
+    background-color: #303030;
+    color: #FFF;
+    padding: 206px 0px 197px 62px;
+    text-align: start;
+}
+
+    header h1 {
+        font-size: 60px;  
+        font-weight: 600;
+        margin-bottom: 20px;
+    }
+
+    header p {
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+#statistics {
+    display: grid;
+    grid-auto-flow: column;
+    padding: 96px 0px 67px 171px;
+    background-color: #F9F9F9;
+}
+
+    #statistics p{
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: 0%;
+    }
+
+    #statistics p span{
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+#history{
+    display:flex ;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 82px 54px 92px 77px;
+    gap: 300px;
+}
+
+    #history div h2{
+        font-size: 40px;
+        font-weight: 500;
+        margin-bottom: 30px;
+    }
+
+    #history div p{
+        font-size: 24px;
+        font-weight: 300;
+    
+    }
+
+    #architecture{
+        width: 510px;
+        height: 605px;
+    }
+
+#form{
+    background-color: #303030 ;
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 87px;
+}
+    #form form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #form .input{
+        background-color: #FFF;
+        margin-top: 48px;
+        color: #303030;
+        border: none;
+        border-radius: 10px;
+        width: 508px;
+        height: 72px;
+        font-size: 30px;
+        font-weight: 700;
+        padding-left: 30px;
+    }
+
+    #form .input::placeholder{
+        font-size: 24px;
+        font-weight: 700;
+        padding-left: 30px;
+    }
+
+    #form button{
+        margin-top: 48px;
+        margin-bottom: 87px;
+        background-color: #C07212;
+        color: #FFF;
+        padding: 22px 46px;
+        border: none;
+        border-radius: 10px;
+        font-size: 30px;
+        font-weight: 700;
+    }

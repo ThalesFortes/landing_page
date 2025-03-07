@@ -7,6 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <link href="./css/style.css" rel="stylesheet">
     <title>Tradição em arquiteturas</title>
 </head>
 <body>
@@ -15,29 +16,30 @@
         <p>Arquitetura residencial e comercial. </p>
     </header>
     <main>
-        <section>
-            <p>850 <br> emprendimentos construídos</p>
-            <p>40 <br> anos de mercado e experiência</p>
-            <p>2,000,000 <br> m² em projetos construidos</p>
+        <section id="statistics">
+            <p>850 <br><span>emprendimentos construídos</span> </p> 
+            <p>40 <br> <span>anos de mercado e experiência</span></p>
+            <p>2,000,000 <br> <span>m² em projetos construidos</span></p>
         </section>
-        <section>
-            <h2>Arquitetos com História e Experiência.</h2>
-            <p>
-                Nós realizamos desde 2002 projetos e gerenciamento de obras. 
-                Com mais de 800 projetos e 2.000.000 de m² construídos, 
-                tendo como principal proposta transformar em realidade os sonhos de seus clientes, 
-                criando projetos personalizados, unindo a tradição e a modernidade em nossos projetos.
-            </p>
+        <section id="history">
             <div>
-                <img src="./images/architecture.svg" alt="Imagem de uma casa">
+                <h2>Arquitetos com História e Experiência.</h2>
+                <p>
+                    Nós realizamos desde 2002 projetos e gerenciamento de obras. <br>
+                    Com mais de 800 projetos e 2.000.000 de m² construídos,tendo <br>
+                    como principal proposta transformar em realidade os sonhos de <br>
+                    seus clientes,criando projetos personalizados, unindo a tradição<br>
+                    e a modernidade em nossos projetos.
+                </p>
             </div>
+            <img src="./images/architecture.svg" alt="Imagem de uma casa" id="architecture">
         </section>
     </main>
-    <section>
+    <section id="form">
         <h2>Conheça mais sobre nossos serviços:</h2>
         <form action="" method="post">
-            <input type="text" name="Name" placeholder="Nome">
-            <input type="email" name="Email" placeholder="Email">
+            <input type="text" name="Name" placeholder="Nome" class="input">
+            <input type="email" name="Email" placeholder="Email"  class="input">
             <button>Fale Conosco</button>
         </form>
     </section>
