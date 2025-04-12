@@ -35,3 +35,4 @@
 - Data storage was done by sheet monkey where it saves name and email in excel for future [Data](https://docs.google.com/spreadsheets/d/1RKwqT5NuhJYHd7liOhy9tCt7oUg1CwOY8TR4UHFeUYg/edit?usp=sharing)
 - Deployment was done by the Netlify website [site](https://arquiteture.netlify.app/)
 
+
