@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-     <a href="PROJECT__URL">📱 https://thalesfortes.github.io/landing-page/</a>
+     https://thalesfortes.github.io/landing-page/
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
