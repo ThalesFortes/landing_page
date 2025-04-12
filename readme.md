@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Landin Page DNC 💻</h1>
+<h1 align="center" style="font-weight: bold;">Landing Page DNC 💻</h1>
 
 <p align="center">
  <a href="#tech">Technologies</a> • 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-      <a href="PROJECT__URL"> https://arquiteture.netlify.app/</a>
+      <a href="https://arquiteture.netlify.app/">📱 Visit this Project </a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
