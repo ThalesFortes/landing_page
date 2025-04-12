@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-      <a href="PROJECT__URL">📱 https://arquiteture.netlify.app/</a>
+      <a href="PROJECT__URL"> https://arquiteture.netlify.app/</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
