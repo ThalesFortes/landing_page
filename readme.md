@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-     https://thalesfortes.github.io/landing-page/
+      <a href="PROJECT__URL">📱 https://arquiteture.netlify.app/</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
@@ -32,6 +32,5 @@
 
 - Just download the project with its assets and run it with liveserve or just by opening the html document
 - Data storage was done by sheet monkey where it saves name and email in excel for future [Data](https://docs.google.com/spreadsheets/d/1RKwqT5NuhJYHd7liOhy9tCt7oUg1CwOY8TR4UHFeUYg/edit?usp=sharing)
-- Deployment was done by the Netlify website [site](https://arquiteture.netlify.app/)
 
 
